@@ -6,6 +6,7 @@ public class review001 {
 		// TODO Auto-generated method stub
 System.out.println("learning");
 System.out.println("I can do it");
+System.out.println("hola");
 	}
 
 }
